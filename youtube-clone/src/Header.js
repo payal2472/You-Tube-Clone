@@ -1,4 +1,6 @@
-import React from 'react'
+import React from 'react';
+import Header from "./Header";
+
 
 function Header() {
   return (
@@ -6,7 +8,7 @@ function Header() {
         <h1>i am a header</h1>
       
     </div>
-  )
+  );
 }
 
 export default Header
